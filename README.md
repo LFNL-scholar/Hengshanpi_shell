@@ -1,5 +1,4 @@
-# Hengshanpi_shell
-## 衡山派上层艺术盖板
+# 衡山派上层艺术盖板 | Hengshanpi_shell 
 
 ## 实物图
 ![微信图片_20241129172245](https://github.com/user-attachments/assets/783c0126-09d0-4937-8782-ab7e3763f379)
@@ -14,5 +13,5 @@
 选用6mm或者8mm的M3铜柱搭配M3沉头六角螺母
 
 嘉立创EDA专业版设计文件
-详见目录
+详见 ProPrj_衡山派上层板.epro 文件
 
