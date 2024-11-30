@@ -6,12 +6,9 @@
 
 ## 工程文件
 丝印的设计文件如下，相关字体已嵌入PPT。
+嘉立创EDA专业版设计文件，详见 ProPrj_衡山派上层板.epro 文件
 ![QQ20241129-174103](https://github.com/user-attachments/assets/c3c7fdd9-4931-4232-8375-51fcaca8428a)
 ![QQ20241129-174047](https://github.com/user-attachments/assets/83bf9057-e385-4068-b1e7-27fafb6b646b)
 
 ## 配件
 选用6mm或者8mm的M3铜柱搭配M3沉头六角螺母
-
-嘉立创EDA专业版设计文件
-详见 ProPrj_衡山派上层板.epro 文件
-
